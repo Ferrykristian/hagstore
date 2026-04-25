@@ -215,7 +215,7 @@ export default function HeroSection() {
               Browse Domains
             </button>
             <button
-              onClick={() => window.open("https://t.me/@Hagsen", "_blank")}
+              onClick={() => window.open("https://t.me/Hagsen", "_blank")}
               style={{
                 fontFamily: "'Rajdhani', sans-serif",
                 fontWeight: 700,
