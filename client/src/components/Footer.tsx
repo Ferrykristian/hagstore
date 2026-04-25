@@ -79,7 +79,7 @@ export default function Footer() {
 
           {/* Telegram link */}
           <button
-            onClick={() => window.open("https://t.me/@Hagsen", "_blank")}
+            onClick={() => window.open("https://t.me/Hagsen", "_blank")}
             style={{
               fontFamily: "'Rajdhani', sans-serif",
               fontWeight: 700,
