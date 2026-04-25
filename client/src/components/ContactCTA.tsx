@@ -120,7 +120,7 @@ export default function ContactCTA() {
           </button>
 
           <button
-            onClick={() => window.open("https://t.me/@Hagsen", "_blank")}
+            onClick={() => window.open("https://t.me/Hagsen", "_blank")}
             style={{
               fontFamily: "'Rajdhani', sans-serif",
               fontWeight: 700,
