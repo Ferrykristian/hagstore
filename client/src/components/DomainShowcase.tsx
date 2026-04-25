@@ -126,7 +126,7 @@ function DomainCard({ domain }: { domain: typeof domains[0] }) {
 
       {/* Buy button */}
       <button
-        onClick={() => window.open("https://t.me/yourusername", "_blank")}
+        onClick={() => window.open("https://t.me/@Hagsen", "_blank")}
         style={{
           width: "100%",
           padding: "10px",
@@ -278,7 +278,7 @@ export default function DomainShowcase() {
         {/* View more button */}
         <div className="reveal-item" style={{ opacity: 0, transform: "translateY(30px)", transition: "all 0.7s ease 0.5s", textAlign: "center", marginTop: "3rem" }}>
           <button
-            onClick={() => window.open("https://t.me/yourusername", "_blank")}
+            onClick={() => window.open("https://t.me/@Hagsen", "_blank")}
             style={{
               fontFamily: "'Rajdhani', sans-serif",
               fontWeight: 700,
